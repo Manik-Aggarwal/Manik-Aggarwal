@@ -31,4 +31,4 @@
 
 ![Streak](https://github-readme-stats.vercel.app/api?username=manik-aggarwal&show_icons=true&locale=en&theme=tokyonight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manik-Aggarwal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manik-Aggarwal&theme=nord)  
