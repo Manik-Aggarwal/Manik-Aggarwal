@@ -1,7 +1,5 @@
-<p align="center">
-  <img width="90%" height="400rem" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="intro" />
-</p>
 
+<img src="https://user-images.githubusercontent.com/76563109/147476807-ae278c39-0441-4b4f-a2ea-95025cc1b319.gif" style="width:95%;" alt="gif">
 <h1  align="center"> Hi, I am Manik Aggarwal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">A passionate web developer from India</h3>
 
