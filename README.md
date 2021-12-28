@@ -16,7 +16,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://manikaggarwal.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="35" /></a>
     <a href="mailto:manikaggarwal993@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="35" /></a>
   <a href="https://linkedin.com/in/manik-aggarwal-640110188" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" /></a>
