@@ -40,3 +40,4 @@
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Manik-Aggarwal&theme=nord" />
 </a>
 </p>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
