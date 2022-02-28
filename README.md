@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manik-aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="manik-aggarwal" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning working on **MERN** project.
 
 - 👨‍💻 All of my projects are available at [https://manikaggarwal.netlify.app/](https://manikaggarwal.netlify.app/)
 
